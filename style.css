@@ -1,0 +1,123 @@
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin: 0;
+}
+
+.hero{
+    padding: 45vh 0;
+    text-align: center;
+    background-image: url(./zany-jadraque-ZCRtfop2hZY-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:#6b4625;
+}
+
+body{
+    font-family: roboto, sans serif;
+line-height: 2;
+}
+
+button{
+    
+    padding:5px 40px;
+    background-color: #926239;
+    color: #F9F9F9;
+    border-radius: 10px;
+    border: none;
+}
+
+button:hover{
+    transform: scale(1.1);
+}
+
+.hero p{
+    padding: 16px;
+    
+}
+
+
+
+main div{
+    padding: 20px;
+   
+    
+}
+
+.top{
+    background-color: #926239;
+    text-align: center;
+    margin-top: 0;
+}
+.mid{
+    text-align:center;
+}
+
+.bot{
+    width: 33.1%;
+    height: auto;
+    display: inline-block;
+    background-color: #926239;
+    
+   
+}
+main, .white{
+    background-color: #F9F9F9;
+}
+
+hr{
+    margin: 10vh 0;
+}
+footer{
+    padding: 5vh 8vw;
+    background-color: #926239;
+    color: white;
+    margin-top: 10vh;
+}
+
+
+.top-footer{
+    padding: 0 5px;
+  
+}
+.top-footer div{
+    display: inline-block;
+    height: auto;
+    vertical-align: top;
+    margin-right: 5vw;
+ 
+}
+
+.brand{
+    width: 35vw;
+
+}
+
+h3{
+    text-transform: uppercase;
+    margin: 10px 0;
+}
+
+.top-footer a{
+    display: block;
+    text-decoration: none;
+    color: #F9F9F9;
+    margin: 5px 0 ;
+}
+
+.bot-footer{
+    text-align:center;
+}
+
+i{
+    margin:20px 10px ;
+    padding: 12px;
+    border: 1px solid greenyellow;
+    border-radius: 100%;
+}
+
+.bot-footer a{
+    text-decoration: none;
+    color: #F9F9F9;
+}
+
